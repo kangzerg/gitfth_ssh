@@ -1,0 +1,3 @@
+[submodule "gitfth"]
+	path = gitfth
+	url = git@github.com:kangzerg/gitfth.git
